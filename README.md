@@ -8,7 +8,7 @@
 
 ##  Skills & Tools
 
--  Languages: Python | SQL |  
+-  Languages: Python | SQL   
 -  Tools: Excel | Power BI | VS Code | Anaconda-Navigator
 -  Data Handling: Data Cleaning | EDA | KPI Creation  
 -  Visualization: Dynamic Dashboards | Business Reports
